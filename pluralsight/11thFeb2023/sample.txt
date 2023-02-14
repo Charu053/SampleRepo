@@ -1,0 +1,8 @@
+//This file has some sample details
+
+-p option is for PROGRAM
+-o otion if for OPERATION
+-x otion is for EXECUTE
+..
+..
+..

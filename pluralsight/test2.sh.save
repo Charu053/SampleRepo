@@ -1,0 +1,6 @@
+mkdir nano_file
+cd nano_file
+mkdir subfolder
+ls -laht
+
+echo File Created
