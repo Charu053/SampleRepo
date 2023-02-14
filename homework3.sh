@@ -12,7 +12,7 @@ else
     then mkdir $DIR
     echo "Created the $DIR"
     else echo "No write permission"
-	echo "Adding comment"
+	echo "Adding comments"
     exit 2
     fi
 fi 
